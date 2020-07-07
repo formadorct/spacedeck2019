@@ -17,7 +17,7 @@
     "cheerio": "0.22.0",
     "config": "1.25.1",
     "cookie-parser": "~1.4.3",
-    "electron": "^1.8.4",
+    "electron": "^9.1.0",
     "execSync": "latest",
     "express": "~4.13.0",
     "file-type": "^7.6.0",
